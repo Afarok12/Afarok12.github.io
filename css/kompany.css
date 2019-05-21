@@ -1,0 +1,48 @@
+.up{
+	display: flex;
+	background-color: white;
+	border-radius: 15px 15px;
+	height: 100px;
+	margin: auto 1%;
+}
+.up a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 20px 100px;
+	color: grey;
+}
+body{
+	background-color: #898181;
+} 
+.logo{
+	width: 60px;
+	height: 60px;
+	margin-left: -40px;
+	margin-top: 0px;	
+}
+.opus{
+	text-decoration:none;
+	color: black;
+	font-size: 30px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.down{
+	display: flex;
+	background-color: white;
+	border-radius: 15px 15px;
+	margin: auto 1%;
+	padding: 10px auto;
+	position: end;
+}
+.down a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 20px 10%;
+	color: black;
+}
+.opus2{
+	padding:30px 10%;
+}
